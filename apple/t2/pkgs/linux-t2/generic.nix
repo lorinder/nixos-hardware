@@ -44,6 +44,10 @@ kernel.override (
       HID_SENSOR_ALS = module;
       SND_PCM = module;
       STAGING = yes;
+      T2BCE_AUDIO = module;
+      T2BCE_CORE = module;
+      T2BCE_DMA = module;
+      T2BCE_VHCI = module;
     };
 
     kernelPatches = t2-patches ++ (args.kernelPatches or [ ]);
