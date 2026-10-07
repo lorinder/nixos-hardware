@@ -1,13 +1,13 @@
 {
-  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/9e773c8876708924dd5e0e5d3093068a0f806ea1/",
+  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/65fdd4d492d7e219a05742ce4768f16e5ba4f976/",
   "patches": [
     {
       "name": "1001-Add-t2bce-driver-stack.patch",
-      "hash": "sha256-606kJZrm3E4vCHJDS45vyjQAAcuAy7+lD0cYmvQubKE="
+      "hash": "sha256-QeAffMClzGsGdHC5Qce744X2WUcx6PI0CJ5BQ8txxQ8="
     },
     {
       "name": "1002-Integrate-t2bce-driver-stack.patch",
-      "hash": "sha256-jMIhphKzcBQKsDpCfgp+lVX64+ZlU2U29b/4NQ+jWLM="
+      "hash": "sha256-nPAPGV9IROyxSQzSztwNS1fY0ziGQJ7evKBs1ZSHwiE="
     },
     {
       "name": "2008-i915-4-lane-quirk-for-mbp15-1.patch",
@@ -70,6 +70,10 @@
       "hash": "sha256-KV5DTjALzNugs92Jum6VUt0wgblK/6PG1KorovHcIX0="
     },
     {
+      "name": "5002-drm-appletbdrm-Add-suspend-and-resume-support.patch",
+      "hash": "sha256-NFa5ZpNguUC9ELfphvCrVHEh59tN/ZA9vQl6YD1avbI="
+    },
+    {
       "name": "6001-drm-amd-pm-Fix-boot-problems-in-5300.patch",
       "hash": "sha256-l6pyVkpumURgoQ/f1kGfw47YhMuuMjpiHgjP6QN8dNE="
     },
@@ -80,6 +84,10 @@
     {
       "name": "7002-drm-amdgpu-reset-VI-ASIC-on-MacBookPro15-1.patch",
       "hash": "sha256-lLruG4lJAI6fI94w2LzHmrbspXArrq+rbI/SJmhwXqo="
+    },
+    {
+      "name": "7003-amdgpu-add-support-for-5K.patch",
+      "hash": "sha256-RX3tiju4gNFlrrYWOMdUr0HAdSN5RliliiPAQw5I6/M="
     },
     {
       "name": "8001-Add-APFS-driver.patch",

@@ -1,13 +1,13 @@
 {
-  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/9f538c646581ad805d9b4ff8690803306e3899db/",
+  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/2eed0f6c812e8f36cb7a7f7bcde69f6f87074bdf/",
   "patches": [
     {
       "name": "1001-Add-t2bce-driver-stack.patch",
-      "hash": "sha256-AtpVVbrg9oGy0rFChlrL6SIN4gPAKxYeq/Ykr+Z5jQw="
+      "hash": "sha256-OG4Y7cN75pHWF7huV+2Fqtq0ik2aITMWtF43mD+RFCU="
     },
     {
       "name": "1002-Integrate-t2bce-driver-stack.patch",
-      "hash": "sha256-mSPoqMuBV7JnQ3OWYcuT1e5U3+SByccmqKwCL5UawYo="
+      "hash": "sha256-z3g3IOAL+Nze88oKDSYpLHVtFnhz2kP1Udap5J64WmM="
     },
     {
       "name": "1003-Fix-for-6.18.patch",
@@ -15,7 +15,7 @@
     },
     {
       "name": "2008-i915-4-lane-quirk-for-mbp15-1.patch",
-      "hash": "sha256-S2osR1aSjqJiO7rNZP1sKt2+Uxyitwse/6BXMJvE9as="
+      "hash": "sha256-gTYP7WHV/Qulobdi1nNdYsv1CWgkM8pGvsCFQ+rvhrw="
     },
     {
       "name": "2009-apple-gmux-allow-switching-to-igpu-at-probe.patch",
@@ -72,6 +72,10 @@
     {
       "name": "5001-HID-appletb-kbd-add-option-to-switch-default-layer-o.patch",
       "hash": "sha256-KV5DTjALzNugs92Jum6VUt0wgblK/6PG1KorovHcIX0="
+    },
+    {
+      "name": "5002-drm-appletbdrm-Add-suspend-and-resume-support.patch",
+      "hash": "sha256-NFa5ZpNguUC9ELfphvCrVHEh59tN/ZA9vQl6YD1avbI="
     },
     {
       "name": "7001-drm-i915-fbdev-Discard-BIOS-framebuffers-exceeding-h.patch",
